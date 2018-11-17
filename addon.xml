@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.audio.nsm88"
+version="2.3.7"
+name="[COLOR red]NSM[/COLOR][COLOR white] 88[/COLOR][COLOR red] Music[/COLOR]"
+provider-name="[COLOR darkgrey]THE[/COLOR] [COLOR white]FOURTH[/COLOR] [COLOR red]REICH[/COLOR]">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>audio</provides>
+</extension>
+  <Summary lang="de_DE">Musik Alben Sammlung</summary>
+<extension point="xbmc.addon.metadata">
+  <description lang="de_DE">Eine wachsende Bibliothek bester Rechtsrock Musik. Bitte bleibt trotz unseres angebotes Fair und unterstuetzt die Bands durch Kauf ihrer Alben. Besucht dafuer die Web Shops von PC-Records oder Opos-Records.</description>
+  <disclaimer lang="de_DE">Gutmenschen Aufgepasst! Die Lyric der hier angebotenen Musik kann zu schweren Schaeden am Buesserkult und der Ersatzreligion von alleiniger Schuld nachsich ziehen.</disclaimer>
+<assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>    
+  </assets>
+  <news>Alle Streams nun in 320kBit...</news>
+</extension>
+</addon>
