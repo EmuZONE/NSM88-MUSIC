@@ -855,7 +855,31 @@ VIDEOS = {'Ultima Thule - For FÃ¤derneslandet': [{'name': '01. Poltava (03:39)',
 
                      ],
                      
-                     'Devastation Now - Chaos Conflict': [{'name': '01. ropagierter Einzeller [03:02]',
+                     'Streicher – Hammerskins (1995)': [{'name': '01. Hammerpower Skinheads (10:23)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/001.mp3',
+                      'genre': 'Rock'},
+                     {'name': '02. Destr OI! (4:47)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/002.mp3',
+                      'genre': 'Rock'},
+                     {'name': '03. Aryan Shocktroops (5:29)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/003.mp3',
+                      'genre': 'Rock'},
+                     {'name': '04.  For Race And Nation (2:09)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/004.mp3',
+                      'genre': 'Rock'},
+                     {'name': '05. Order Of The Boot (6:51)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/036/005.mp3',
+                      'genre': 'Rock'}
+
+
+                     ],
+                     
+                     'Devastation Now - Chaos Conflict': [{'name': '01. Propagierter Einzeller [03:02]',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/035/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Files/deleted/035/001.mp3',
                       'genre': 'Rock'},
