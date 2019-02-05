@@ -83,6 +83,26 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
                       
                       ],
                       
+                      'Harzblut - Harzblut (2019)': [{'name': '01. Hexenjagd',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/001.mp3',
+                      'genre': 'Rock'},
+                     {'name': '02. Schlange',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/002.mp3',
+                      'genre': 'Rock'},
+                     {'name': '03. Harzland',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/003.mp3',
+                      'genre': 'Rock'},
+                     {'name': '04. Vorsicht vor Geistern!',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/012/004.mp3',
+                      'genre': 'Rock'}
+
+
+                     ],
+                      
                       'White Covers Volume One': [{'name': '01. Geheuchelte Humanität (Blutzeugen)',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/010/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Dez/Lib/010/001.mp3',
