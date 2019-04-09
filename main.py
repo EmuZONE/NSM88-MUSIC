@@ -547,7 +547,7 @@ VIDEOS = {'Ultima Thule - For FÃ¤derneslandet': [{'name': '01. Poltava (03:39)',
 ],
 
 
-' Varg ?– Guten Tag ': [{'name': '01. Willkommen ',
+'Varg – Guten Tag ': [{'name': '01. Willkommen ',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Loading/System/023/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Loading/System/023/001.mp3',
                       'genre': 'Rock'},
