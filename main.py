@@ -84,7 +84,7 @@ VIDEOS = {'Ultima Thule - For FÃ¤derneslandet': [{'name': '01. Poltava (03:39)',
                       ],
                       
                       
-'Blutkult ?– Alte Werte - Neu Beseelt': [{'name': '01. Intro',
+'Blutkult – Alte Werte - Neu Beseelt': [{'name': '01. Intro',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Loading/System/044/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Old/Loading/System/044/001.mp3',
                       'genre': 'NSBM'},
