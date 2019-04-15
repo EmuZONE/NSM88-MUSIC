@@ -8,6 +8,10 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <b>Latest Changes:</b> 
 <br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
+<li>Uwocaust & alte Freunde: Blutgruppe</li>
+<li>Jan Peter: Echoes from the Past</li>
+<li>Ian Stuart: No Turning Back</li>
+<li>Ian Stuart: Slay the Beast</li>
 <br>
 <br>
 <h3>Screens:</h3>
