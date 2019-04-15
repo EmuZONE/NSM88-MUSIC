@@ -12,4 +12,4 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <h3>Screens:</h3>
 <br>
-<p align="center"><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/NSM_01.png"></p> <p><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/NSM_02.png"></p> <p><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/NSM_03.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/nsm_01.png"> <img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/nsm_02.png"> <img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/nsm_03.png"></p>
