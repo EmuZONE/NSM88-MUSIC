@@ -7,11 +7,16 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <b>Latest Changes:</b> 
 <br>
+<br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
 <li>Uwocaust & alte Freunde: Blutgruppe</li>
 <li>Jan Peter: Echoes from the Past</li>
 <li>Ian Stuart: No Turning Back</li>
 <li>Ian Stuart: Slay the Beast</li>
+<li>Panzerfaust: Musik im Zeichen der weissen Faust</li>
+<li>HKL: Ultranational</li>
+<li>N´Socialist Soundsystem: Linientreu Und Angriffslustig</li>
+<li>Die Weissen Riesen: Todesstrafe</li>
 <br>
 <br>
 <h3>Screens:</h3>
