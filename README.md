@@ -9,6 +9,7 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
+<li>Blutrein: Naturkampf</li>
 <li>Uwocaust & alte Freunde: Blutgruppe</li>
 <li>Jan Peter: Echoes from the Past</li>
 <li>Ian Stuart: No Turning Back</li>
