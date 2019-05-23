@@ -5,10 +5,14 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <br>
-<b>Latest Changes:</b> 
+<b>Latest Changes: 23.05.2019</b> 
 <br>
 <br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
+<li>Gigi in Musica: 25 Jahre</li>
+<li>Gigi & Die Braunen Stadtmusikanten: Was Von Meinungsfreiheit Bleibt</li>
+<li>Barking Dogs: Dein Tag</li>
+<li>Barking Dogs: Herzlich Willkommen im Niemandsland</li>
 <li>Blutrein: Naturkampf</li>
 <li>Uwocaust & alte Freunde: Blutgruppe</li>
 <li>Jan Peter: Echoes from the Past</li>
