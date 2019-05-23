@@ -9,6 +9,7 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
+<br>
 <li>Gigi in Musica: 25 Jahre</li>
 <li>Gigi & Die Braunen Stadtmusikanten: Was Von Meinungsfreiheit Bleibt</li>
 <li>Barking Dogs: Dein Tag</li>
