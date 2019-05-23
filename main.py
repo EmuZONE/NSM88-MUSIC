@@ -178,7 +178,10 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/009/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/009/010.mp3',
                       'genre': 'Rock'},
-                     {'name': '11. Outro (0:39)'
+                     {'name': '11. Outro (0:39)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/009/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/009/011.mp3',
+                      'genre': 'Rock'}
 
                      ],
 
