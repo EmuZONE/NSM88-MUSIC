@@ -185,6 +185,33 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
 
                      ],
 
+'Nordwind & Agitator - ... a very White X-Mas': [{'name': '01. Rockin arround the X-Mas Tree (Nordwind)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/001.mp3',
+                      'genre': 'Rock'},
+                     {'name': '02. Frosty the Snowman (Nordwind)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/002.mp3',
+                      'genre': 'Rock'},
+                     {'name': '03. We wish you... (Nordwind)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/003.mp3',
+                      'genre': 'Rock'},
+                     {'name': '04. Weihnachtslieder (Agitator)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/004.mp3',
+                      'genre': 'Rock'},
+                     {'name': '05. Rudolph das Rentier (Agitator)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/005.mp3',
+                      'genre': 'Rock'},
+                      {'name': '06. Sei gegrüßt lieber Nikolaus (Agitator)',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Reload/GiM/010/006.mp3',
+                      'genre': 'Rock'}
+
+                     ],
+
 
 
 'Barking Dogs - Dein Tag': [{'name': '01. Dein Tag',
