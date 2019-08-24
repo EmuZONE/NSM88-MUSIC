@@ -130,6 +130,25 @@ VIDEOS = {'Ultima Thule - For Fäderneslandet': [{'name': '01. Poltava (03:39)',
 
 ],
 
+'Bound for Glory - Bad Apple': [{'name': '01. Dresden 2016',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/001.mp3',
+                      'genre': 'Rock'},
+{'name': '02. Russian Winter',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/002.mp3',
+                      'genre': 'Rock'},
+{'name': '03. In the Sewer',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/003.mp3',
+                      'genre': 'Rock'},
+{'name': '04. Bad Apple',
+                      'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/Cover.jpg',
+                      'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/006/004.mp3',
+                      'genre': 'Rock'}
+
+],
+
 'Sturmwehr & Überzeugungstäter - Familie - Volk & Vaterland II': [{'name': '01. Genug ist noch zu wenig II',
                       'thumb': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/005/Cover.jpg',
                       'video': 'https://raw.githubusercontent.com/RAConquista/ContentPusher/master/Explained/2019/August/005/001.mp3',
