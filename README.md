@@ -5,11 +5,20 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <br>
-<b>Latest Changes: 23.05.2019</b> 
+<b>Latest Changes: 14.12.2019</b> 
 <br>
 <br>
 <li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
 <br>
+<li>Ultima Thule: Charlataner</li>
+<li>Snöfried: Same</li>
+<li>Confident Of Victory: Bis zum Horizont</li>
+<li>Brigade 66: Entscheidung</li>
+<li>Lass Leben: Nordwärts</li>
+<li>I.C.1: Truth Will Out!</li>
+<li>Old Lu & die Mississippi Lynchkapelle: Weisser Outlaw</li>
+<li>Burning Hate: Warmachine</li>
+<li>Phönix: Pflichterfüllung</li>
 <li>Antithese - Befreiungskampf</li>
 <li>Volksblut - Liebe | Leben | Vaterland</li>
 <li>Gigi in Musica: 25 Jahre</li>
