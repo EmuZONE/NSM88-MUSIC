@@ -8,7 +8,7 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <b>Latest Changes: 14.12.2019</b> 
 <br>
 <br>
-<li>Umlaute wurden Korrigiert sowie 15 neue Alben hinzugefügt</li>
+<li>Umlaute wurden Korrigiert sowie zahlreiche neue Alben hinzugefügt</li>
 <br>
 <li>Ultima Thule: Charlataner</li>
 <li>Snöfried: Same</li>
