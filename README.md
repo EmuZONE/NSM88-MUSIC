@@ -5,11 +5,13 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <br>
-<b>Latest Changes: 19.09.2020</b> 
+<b>Latest Changes: 11.01.2021</b> 
 <br>
 <br>
 <li>Umlaute wurden Korrigiert sowie zahlreiche neue Alben hinzugefügt. Die toten Google Drive Links wurden ersetzt und die Entsprechenden Alben sind somit wieder verfügbar.</li>
 <br>
+<li>Blutlinie: Berserkerschmiede/Generation 3.0</li>
+
 <li>Ultima Thule: Charlataner</li>
 <li>Snöfried: Same</li>
 <li>Confident Of Victory: Bis zum Horizont</li>
