@@ -5,6 +5,7 @@ Ein Musik Addon für das XB Media Center. Mit diesem Plugin bekommt man Zugriff 
 <br>
 <br>
 <br>
+<p align="center"><img src="https://raw.githubusercontent.com/RAConquista/plugin.audio.nsm88/master/docs/images/Blutlinie.png"></p>
 <b>Latest Changes: 11.01.2021</b> 
 <br>
 <br>
